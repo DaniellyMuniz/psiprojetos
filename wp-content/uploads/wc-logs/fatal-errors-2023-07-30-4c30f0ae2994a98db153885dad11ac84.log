@@ -1,0 +1,46 @@
+2023-07-30T17:13:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\option.php, na linha 78
+
+2023-07-30T17:13:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\class-wp-hook.php, na linha 89
+
+2023-07-30T17:13:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\class-wp-block-type-registry.php, na linha 55
+
+2023-07-30T17:13:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\themes\astra\inc\builder\type\header\social-icon\class-astra-header-social-icon-component.php, na linha 12
+
+2023-07-30T17:13:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\ninja-forms\includes\Config\FieldSettings.php, na linha 1
+
+2023-07-30T17:13:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\themes\astra\inc\customizer\class-astra-fonts-data.php, na linha 13
+
+2023-07-30T17:13:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\jetpack\modules\module-extras.php, na linha 72
+
+2023-07-30T17:13:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\royal-elementor-addons\modules\offcanvas\widgets\wpr-offcanvas.php, na linha 16
+
+2023-07-30T17:13:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\royal-elementor-addons\classes\modules\wpr-ajax-search.php, na linha 9
+
+2023-07-30T17:13:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\class-wpdb.php, na linha 3413
+
+2023-07-30T17:13:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\capabilities.php, na linha 622
+
+2023-07-30T17:13:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-videopress\src\class-wpcom-rest-api-v2-endpoint-videopress.php, na linha 589
+
+2023-07-30T17:13:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\option.php, na linha 82
+
+2023-07-30T17:13:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\elementor\core\utils\static-collection.php, na linha 4
+
+2023-07-30T17:13:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\pluggable.php, na linha 70
+
+2023-07-30T17:13:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php, na linha 13
+
+2023-07-30T17:13:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\ninja-forms\includes\Admin\Menus\Licenses.php, na linha 19
+
+2023-07-30T17:13:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-stats\src\class-main.php, na linha 118
+
+2023-07-30T17:13:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\woocommerce\src\Internal\Features\FeaturesController.php, na linha 17
+
+2023-07-30T17:13:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\pomo\mo.php, na linha 320
+
+2023-07-30T17:13:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\Requests\src\Transport\Curl.php, na linha 205
+
+2023-07-30T17:13:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-includes\pomo\mo.php, na linha 320
+
+2023-07-30T17:13:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xamppmuniz\htdocs\munizart\wp-content\plugins\elementor\includes\controls\groups\image-size.php, na linha 4
+

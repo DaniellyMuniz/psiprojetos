@@ -1,0 +1,333 @@
+# Translation of Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-31 13:05:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release)\n"
+
+#: includes/blocks/modal/block.php:16 dist/blocks-placeholder.js:26
+#: dist/blocks.js:17
+msgid "Modal"
+msgstr "Modal"
+
+#. Plugin Name of the plugin
+#: admin-core/inc/admin-menu.php:224 classes/class-uagb-admin-helper.php:394
+#: classes/class-uagb-init-blocks.php:441
+msgid "Spectra"
+msgstr "Spectra"
+
+#: classes/class-uagb-admin-helper.php:402
+msgid "Astra Theme"
+msgstr "Tema Astra"
+
+#: includes/blocks/buttons/block.php:16 dist/blocks-placeholder.js:11
+#: dist/blocks.js:13
+msgid "Buttons"
+msgstr "Botões"
+
+#: includes/blocks/container/block.php:16 dist/blocks-placeholder.js:13
+#: dist/blocks.js:11 dist/blocks.js:17
+msgid "Container"
+msgstr "Contêiner"
+
+#: admin-core/ajax/ajax-errors.php:61
+msgid "Sorry, something went wrong."
+msgstr "Algo deu errado."
+
+#: includes/blocks/cf7-styler/block.php:16 dist/blocks.js:17
+msgid "Contact Form 7 Designer"
+msgstr "Design do Contact Form 7"
+
+#: admin-core/ajax/ajax-errors.php:60
+msgid "Nonce validation failed"
+msgstr "Falha na verificação"
+
+#: admin-core/ajax/common-settings.php:157
+#: admin-core/ajax/common-settings.php:191
+#: admin-core/ajax/common-settings.php:225
+#: admin-core/ajax/common-settings.php:260
+#: admin-core/ajax/common-settings.php:338
+#: admin-core/ajax/common-settings.php:373
+#: admin-core/ajax/common-settings.php:408
+#: admin-core/ajax/common-settings.php:443
+#: admin-core/ajax/common-settings.php:478
+#: admin-core/ajax/common-settings.php:513
+#: admin-core/ajax/common-settings.php:547
+#: admin-core/ajax/common-settings.php:581
+#: admin-core/ajax/common-settings.php:616
+#: admin-core/ajax/common-settings.php:650
+#: admin-core/ajax/common-settings.php:684
+#: admin-core/ajax/common-settings.php:718
+#: admin-core/ajax/common-settings.php:752
+#: admin-core/ajax/common-settings.php:838
+#: admin-core/ajax/common-settings.php:872
+#: admin-core/ajax/common-settings.php:906
+#: admin-core/ajax/common-settings.php:941
+#: admin-core/ajax/common-settings.php:976
+#: admin-core/ajax/common-settings.php:1011
+#: admin-core/ajax/common-settings.php:1051
+#: admin-core/ajax/common-settings.php:1088
+#: admin-core/ajax/common-settings.php:1125
+#: admin-core/ajax/common-settings.php:1163
+#: admin-core/ajax/common-settings.php:1241
+#: admin-core/ajax/common-settings.php:1276
+msgid "No post data found!"
+msgstr "Nenhum dado de post encontrado!"
+
+#: admin-core/api/common-settings.php:99 classes/class-uagb-rest-api.php:325
+msgid "Sorry, you cannot list resources."
+msgstr "Você não pode listar recursos."
+
+#: classes/class-uagb-rollback.php:165
+msgid "Spectra <p>Rollback to Previous Version</p>"
+msgstr "Spectra <p>voltar para a versão anterior</p>"
+
+#: includes/blocks/advanced-heading/block.php:17 dist/blocks.js:11
+msgid "Add heading, sub heading and a separator using one block."
+msgstr "Adicione título, subtítulo e um separador usando um bloco."
+
+#: includes/blocks/blockquote/block.php:17 dist/blocks.js:13
+msgid "Display qoutes/quoted texts using blockquote."
+msgstr "Exibir citações/textos usando bloco de citação."
+
+#: admin-core/ajax/common-settings.php:164
+#: admin-core/ajax/common-settings.php:198
+#: admin-core/ajax/common-settings.php:232
+#: admin-core/ajax/common-settings.php:267
+#: admin-core/ajax/common-settings.php:345
+#: admin-core/ajax/common-settings.php:380
+#: admin-core/ajax/common-settings.php:415
+#: admin-core/ajax/common-settings.php:450
+#: admin-core/ajax/common-settings.php:485
+#: admin-core/ajax/common-settings.php:520
+#: admin-core/ajax/common-settings.php:554
+#: admin-core/ajax/common-settings.php:589
+#: admin-core/ajax/common-settings.php:623
+#: admin-core/ajax/common-settings.php:657
+#: admin-core/ajax/common-settings.php:691
+#: admin-core/ajax/common-settings.php:725
+#: admin-core/ajax/common-settings.php:781
+#: admin-core/ajax/common-settings.php:810
+#: admin-core/ajax/common-settings.php:845
+#: admin-core/ajax/common-settings.php:879
+#: admin-core/ajax/common-settings.php:913
+#: admin-core/ajax/common-settings.php:948
+#: admin-core/ajax/common-settings.php:983
+#: admin-core/ajax/common-settings.php:1024
+#: admin-core/ajax/common-settings.php:1061
+#: admin-core/ajax/common-settings.php:1098
+#: admin-core/ajax/common-settings.php:1136
+#: admin-core/ajax/common-settings.php:1190
+#: admin-core/ajax/common-settings.php:1248
+#: admin-core/ajax/common-settings.php:1283
+#: classes/class-uagb-init-blocks.php:404
+msgid "Successfully saved data!"
+msgstr "Dados salvo com sucesso!"
+
+#: blocks-config/forms/class-uagb-forms.php:100
+#: blocks-config/forms/class-uagb-forms.php:116
+msgid "Please try logging in again to verify that you are not a robot."
+msgstr "Tente acessar novamente para verificar que você não é um robô."
+
+#: includes/blocks/buttons-child/block.php:15
+msgid "Customize this button as per your need."
+msgstr "Personalize este botão de acordo com sua necessidade."
+
+#: includes/blocks/buttons/block.php:17 dist/blocks.js:13
+msgid "Add multiple buttons to redirect user to different webpages."
+msgstr "Adicione vários botões para redirecionar o usuário para diferentes páginas web."
+
+#: includes/blocks/call-to-action/block.php:17 dist/blocks.js:13
+msgid "Add a button along with heading and description."
+msgstr "Adicione um botão junto com o título e descrição."
+
+#: includes/blocks/column/block.php:15
+msgid "Immediate child of Advanced Columns."
+msgstr "Filho imediato de colunas avançadas."
+
+#: classes/class-uagb-init-blocks.php:663 dist/blocks.js:11 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "None"
+msgstr "Nenhum"
+
+#: classes/class-uagb-init-blocks.php:563 dist/blocks.js:11 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Default"
+msgstr "Padrão"
+
+#: includes/blocks/advanced-heading/block.php:16 dist/blocks-placeholder.js:9
+#: dist/blocks.js:11 dist/blocks.js:13 dist/blocks.js:17
+msgid "Heading"
+msgstr "Título"
+
+#: lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce não validado."
+
+#: includes/blocks/table-of-contents/block.php:16
+msgid "Table of Contents"
+msgstr "Tabela de conteúdos"
+
+#: classes/class-uagb-admin.php:219
+msgid "Would you please mind sharing your views and give it a 5 star rating on the WordPress repository?"
+msgstr "Você se importaria de compartilhar sua opinião e nos dar uma classificação 5 estrelas no repositório WordPress?"
+
+#: classes/class-uagb-init-blocks.php:739
+msgid "You have not added any Gravity Forms yet."
+msgstr "Nenhum Gravity Forms foi adicionado por você ainda."
+
+#: classes/class-uagb-init-blocks.php:382
+msgid "Please select a valid Gravity Form."
+msgstr "Selecione um Gravity Form válido."
+
+#: includes/blocks/marketing-button/block.php:16 dist/blocks-placeholder.js:25
+#: dist/blocks.js:17
+msgid "Marketing Button"
+msgstr "Botão de marketing"
+
+#: classes/class-uagb-init-blocks.php:692
+#: classes/class-uagb-init-blocks.php:725 dist/blocks.js:17
+msgid "Select Form"
+msgstr "Selecionar formulário"
+
+#: classes/class-uagb-init-blocks.php:706
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Nenhum Contact Form 7 foi adicionado por você ainda."
+
+#: classes/class-uagb-init-blocks.php:424
+msgid "Please select a valid Contact Form 7."
+msgstr "Selecione um Contact Form 7 válidao."
+
+#: includes/blocks/blockquote/block.php:16 dist/blocks-placeholder.js:10
+#: dist/blocks.js:13
+msgid "Blockquote"
+msgstr "Citação"
+
+#: classes/class-uagb-helper.php:409 dist/blocks.js:17
+msgid "Full"
+msgstr "Completo"
+
+#: admin-core/ajax/common-settings.php:130
+msgid "Plugin Successfully Activated"
+msgstr "Os plugins ativados com sucesso."
+
+#: includes/blocks/restaurant-menu/block.php:16 dist/blocks-placeholder.js:29
+#: dist/blocks.js:17
+msgid "Price List"
+msgstr "Lista de preços"
+
+#: includes/blocks/column/block.php:14 dist/blocks.js:11 dist/blocks.js:17
+msgid "Column"
+msgstr "Coluna"
+
+#: classes/class-uagb-admin.php:223
+msgid "Nope, maybe later"
+msgstr "Não, talvez mais tarde"
+
+#: classes/class-uagb-admin.php:221
+msgid "Ok, you deserve it"
+msgstr "Ok, vocês merecem"
+
+#: classes/class-uagb-admin.php:224
+msgid "I already did"
+msgstr "Eu já fiz isso"
+
+#: includes/blocks/columns/block.php:16 dist/blocks.js:17
+msgid "Advanced Columns"
+msgstr "Colunas avançadas"
+
+#: includes/blocks/call-to-action/block.php:16 dist/blocks-placeholder.js:12
+#: dist/blocks.js:1 dist/blocks.js:13 dist/blocks.js:17
+msgid "Call To Action"
+msgstr "Chamada para ação"
+
+#: includes/blocks/post-masonry/block.php:16 dist/blocks.js:17
+msgid "Post Masonry"
+msgstr "Posts em mosaico"
+
+#: includes/blocks/post-carousel/block.php:16 dist/blocks-placeholder.js:27
+#: dist/blocks.js:17
+msgid "Post Carousel"
+msgstr "Carrossel de posts"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:885
+msgid "No posts found"
+msgstr "Nenhum post encontrado"
+
+#: includes/blocks/post-timeline/block.php:16 dist/blocks-placeholder.js:39
+#: dist/blocks.js:17
+msgid "Post Timeline"
+msgstr "Post linha do tempo"
+
+#: includes/blocks/icon-list/attributes.php:19
+msgid "Label #1"
+msgstr "Rótulo #1"
+
+#: includes/blocks/icon-list/block.php:16 dist/blocks-placeholder.js:19
+#: dist/blocks.js:17
+msgid "Icon List"
+msgstr "Lista de ícones"
+
+#: includes/blocks/testimonial/block.php:16 dist/blocks-placeholder.js:37
+#: dist/blocks.js:17
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: includes/blocks/team/block.php:16 dist/blocks-placeholder.js:36
+#: dist/blocks.js:17
+msgid "Team"
+msgstr "Equipe"
+
+#: includes/blocks/content-timeline/block.php:16 dist/blocks-placeholder.js:38
+#: dist/blocks.js:13
+msgid "Content Timeline"
+msgstr "Conteúdo da linha do tempo"
+
+#: includes/blocks/social-share/block.php:16 dist/blocks-placeholder.js:31
+#: dist/blocks.js:17
+msgid "Social Share"
+msgstr "Compartilhamento social"
+
+#: includes/blocks/post-grid/block.php:16 dist/blocks-placeholder.js:28
+#: dist/blocks.js:17
+msgid "Post Grid"
+msgstr "Grade de posts"
+
+#: includes/blocks/google-map/block.php:16 dist/blocks-placeholder.js:17
+#: dist/blocks.js:17
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/blocks/info-box/block.php:16 dist/blocks-placeholder.js:22
+#: dist/blocks.js:1 dist/blocks.js:13
+msgid "Info Box"
+msgstr "Caixa informativa"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:523
+#: blocks-config/post/class-uagb-post.php:540
+#: blocks-config/post/class-uagb-post.php:2066
+#: includes/blocks/post-carousel/attributes.php:116
+#: includes/blocks/post-grid/attributes.php:107
+#: includes/blocks/post-masonry/attributes.php:110 dist/blocks.js:1
+#: dist/blocks.js:13 dist/blocks.js:17
+msgid "Read More"
+msgstr "Ler mais"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#: classes/class-uagb-loader.php:434
+msgid "Install Gutenberg"
+msgstr "Instale Gutenberg"
